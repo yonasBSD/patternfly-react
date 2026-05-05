@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.5.0-prerelease.67](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.5.0-prerelease.66...@patternfly/react-core@6.5.0-prerelease.67) (2026-05-05)
+
+### Features
+
+- **Drawer:** Added support for glass ([#12305](https://github.com/patternfly/patternfly-react/issues/12305)) ([bce395d](https://github.com/patternfly/patternfly-react/commit/bce395dc88c4a462b5950fb939d4e14327c7b559))
+
 # [6.5.0-prerelease.66](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.5.0-prerelease.65...@patternfly/react-core@6.5.0-prerelease.66) (2026-05-05)
 
 **Note:** Version bump only for package @patternfly/react-core
