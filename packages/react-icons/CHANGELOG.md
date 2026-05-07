@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.5.0-prerelease.31](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.5.0-prerelease.30...@patternfly/react-icons@6.5.0-prerelease.31) (2026-05-07)
+
+### Features
+
+- **Pagination:** added dynamic sticky and plain ([#12388](https://github.com/patternfly/patternfly-react/issues/12388)) ([7c4f9df](https://github.com/patternfly/patternfly-react/commit/7c4f9dfac4c4a63deecd9fb4d517c5713a617f9e))
+
 # [6.5.0-prerelease.30](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.5.0-prerelease.29...@patternfly/react-icons@6.5.0-prerelease.30) (2026-05-05)
 
 **Note:** Version bump only for package @patternfly/react-icons
