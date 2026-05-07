@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.5.0-prerelease.32](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.5.0-prerelease.31...@patternfly/react-icons@6.5.0-prerelease.32) (2026-05-07)
+
+### Bug Fixes
+
+- **createIcon:** Fix broken API in createIcon.tsx ([#12336](https://github.com/patternfly/patternfly-react/issues/12336)) ([726063b](https://github.com/patternfly/patternfly-react/commit/726063bf5a991f0e64af157014dfdfef77ec4dd3))
+
 # [6.5.0-prerelease.31](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-icons@6.5.0-prerelease.30...@patternfly/react-icons@6.5.0-prerelease.31) (2026-05-07)
 
 ### Features
